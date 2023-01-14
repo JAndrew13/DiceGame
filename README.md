@@ -34,10 +34,10 @@ Go ahead and refresh that page if you're feeling lucky!
 <!-- DIRECTORY -->
 ## Directory
 
-### [/Root]()
+### [/Root](https://github.com/JAndrew13/DiceGame)
 Folder containing CSS style sheet, main html page, and the index.js logic file.
 
-### [/images]()
+### [/images](https://github.com/JAndrew13/DiceGame/tree/main/images)
 Contains all images used in the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

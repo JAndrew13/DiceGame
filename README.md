@@ -1,11 +1,14 @@
 # Dice roller ![stable]
 
+
 <!-- ABOUT SECTION -->
 ### About The Project
 
 This dice rolling wep page was created for more than just settling arguments, losing money, and attack rolls - it was also used to practice working with javascript funtions, querySelector, and custom CSS/HTML layouts. To use this web app, simply load up the page and you will be presented with a randomly generated dice roll. Each time the page is refreshed, a new roll is generated and displayed on the dice face for each player. The JS functions inside the index.js file then determines which player has won the round. 
 
 Go ahead and refresh that page if you're feeling lucky!
+
+<img src="https://github.com/JAndrew13/DiceGame/blob/main/DiceRoller.jpg" width="500">
 
 <!-- TABLE OF CONTENTS -->
   ### Table of contents
@@ -34,10 +37,10 @@ Go ahead and refresh that page if you're feeling lucky!
 <!-- DIRECTORY -->
 ## Directory
 
-### [/Root]()
+### [/Root](https://github.com/JAndrew13/DiceGame)
 Folder containing CSS style sheet, main html page, and the index.js logic file.
 
-### [/images]()
+### [/images](https://github.com/JAndrew13/DiceGame/tree/main/images)
 Contains all images used in the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,7 +69,7 @@ This Repository - https://github.com/jandrew13/Web-Dev-Bootcamp
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/JAndrew13/DiceGame/blob/main/DiceRoller.jpg
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt

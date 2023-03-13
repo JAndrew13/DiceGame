@@ -6,7 +6,7 @@
 
 This dice rolling wep page was created for more than just settling arguments, losing money, and attack rolls - it was also used to practice working with javascript funtions, querySelector, and custom CSS/HTML layouts. To use this web app, simply load up the page and you will be presented with a randomly generated dice roll. Each time the page is refreshed, a new roll is generated and displayed on the dice face for each player. The JS functions inside the index.js file then determines which player has won the round. 
 
-Go ahead and refresh that page if you're feeling lucky!
+Go ahead and refresh that page if you're feeling lucky! [roll the dice](https://dice.jakebrunner.com/)
 
 <img src="https://github.com/JAndrew13/DiceGame/blob/main/DiceRoller.jpg" width="500">
 
